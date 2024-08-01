@@ -179,3 +179,7 @@ div.hamburger:hover{
     text-decoration: underline;
     text-decoration-color: green;
 }
+header{
+    border: solid 5px black;
+    height: 11%;
+}
